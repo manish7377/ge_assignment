@@ -26,6 +26,7 @@
   display: flex;
   gap: 10%;
   white-space: nowrap;
+  cursor:pointer;
 }
 .heading {
   width: 70%;
@@ -75,4 +76,5 @@
   right: 15px;
   bottom: 5px;
   border-radius: 5px;
+  cursor: pointer;
 }
